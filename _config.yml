@@ -24,19 +24,19 @@ author:
   avatar           : "HHQ.jpg"
   name             : "Haiqiao Hong"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at HKU"
+  bio              : "PhD Student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "The University of Hong Kong"
   uri              : # URL
   email            : "haiqiao@connect.hku.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
